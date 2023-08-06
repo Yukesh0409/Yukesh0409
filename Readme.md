@@ -3,17 +3,35 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukesh0409" alt="yukesh0409" /></a> </p>
 
-- 🔭 I’m currently working on **projects related to data pipelines, ETL processes, and data analysis.**
+# About Me
 
-- 🌱 I’m currently learning **advanced Python programming, exploring Java's capabilities, data modeling techniques and also tools like Apache Airflow and Apache Kafka**
+Hey there! 👋 I'm Yukesh A S, a final year student with a passion for data engineering. I enjoy working with Python and Java to build data-driven solutions. When I'm not immersed in coding, you'll often find me exploring the virtual realms of gaming.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yukesh0409?tab=repositories](https://github.com/Yukesh0409?tab=repositories)
+## 🔭 What I'm Working On
 
-- 💬 Ask me about **Data Engineering and Data Pipelines**
+Currently, I'm focused on developing my data engineering skills and diving into projects related to data pipelines, ETL processes, and data analysis. I'm also exploring new games and mastering the art of strategic gameplay.
 
-- 📫 How to reach me **asyukesh@gmail.com, [LinkedIn](https://www.linkedin.com/in/yukesh-a-s/)**
+## 🌱 What I'm Learning
 
-- ⚡ Fun fact **When I'm not engrossed in coding or studies, I enjoy immersing myself in the worlds of video games. Exploring new game mechanics and tackling challenging quests is my way of unwinding and finding inspiration.**
+I'm constantly seeking to expand my knowledge. Right now, I'm diving deeper into advanced Python programming, exploring Java's capabilities, and studying data modeling techniques. Learning is a lifelong journey, and I'm excited to keep pushing my boundaries.
+
+## 📫 How to Reach Me
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/yukesh-a-s/) to discuss tech, data, or anything under the sun. 
+
+## ⚡ Fun Fact
+
+When I'm not engrossed in coding or studies, I enjoy immersing myself in the worlds of video games. Exploring new game mechanics and tackling challenging quests is my way of unwinding and finding inspiration.
+
+## 🔍 Ask Me About
+
+- Data Engineering and Data Pipelines
+- Python and Java Programming
+- Gaming Strategies and Adventures
+- Learning and Personal Growth in Tech
+
+Looking forward to connecting with fellow tech enthusiasts, gamers, and lifelong learners like me!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
