@@ -5,7 +5,7 @@
 
 # About Me
 
-Hey there! 👋 I'm Yukesh A S, a final year student with a passion for data engineering. I enjoy working with Python and Java to build data-driven solutions. When I'm not immersed in coding, you'll often find me exploring the virtual realms of gaming.
+Hey there! 👋 I'm Yukesh A S, just a guy with a passion for data engineering. I enjoy working with Python and Java to build data-driven solutions. When I'm not immersed in coding, you'll often find me exploring the virtual realms of gaming.
 
 ## 🔭 What I'm Working On
 
