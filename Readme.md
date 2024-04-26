@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yukesh A S</h1>
-<h3 align="center">A final year student with a passion for data engineering</h3>
+<h3 align="center">A dood with a passion for data engineering</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukesh0409" alt="yukesh0409" /></a> </p>
 
